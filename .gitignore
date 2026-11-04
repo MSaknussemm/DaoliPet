@@ -1,0 +1,12 @@
+# 运行时生成的个人设置（窗口位置、大小、音量、上次载入的视频路径）
+settings.xml
+
+# Visual Studio / MSBuild
+.vs/
+bin/
+obj/
+*.user
+*.suo
+
+# 本地下载的绿幕视频
+*.mp4
